@@ -1,0 +1,67 @@
+{
+	"PHP": {
+		"prefix": "php",
+		"body": [
+			"<?php",
+				"    echo'$1'",
+			"?>"
+			],
+			"description": "PHP código base"
+		}, 
+
+	"HTML1": {
+		"prefix": "form",
+		"body": [
+			"<form action= method=",
+				"<input type= name= >",
+			"</form>"
+			],
+			"description": "PHP código base"
+		},
+
+	"PHP-1": {
+		"prefix": "form",
+		"body": [
+			"<form action= method=",
+				"<input type= name= >",
+			"</form>"
+			],
+			"description": "PHP código base"
+		},
+
+	"HTML": {
+		"prefix": "html",
+		"body": [
+			"<DOCTYPE html>",
+			"<html lang=pt-br>",
+				"<head>",
+					"<title></title>",
+				"</head>",
+				"<body>",
+				"$1",
+				"</body>",
+			"</html>"
+			],
+			"description": "HTML código base"
+		},
+
+	"HTML-1": {
+		"prefix": "header",
+		"body": [
+			"<header>",
+				"",
+			"</header>"
+			],
+			"description": "HEADER"
+		},
+
+	"HTML-DIV": {
+		"prefix": "div",
+		"body": [
+			"<div>",
+				"$1",
+			"</div>"
+			],
+			"description": "HEADER"
+		},
+}
